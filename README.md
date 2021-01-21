@@ -1,7 +1,7 @@
 # site
 Criando sites em flask
 
-#etapas
+# etapas
 1. git clone https://github.com/sinisabubonja/pizzabubonjas.git
 2. py -3 -m venv pizzabubonjas
 3. cd pizzabubonjas
